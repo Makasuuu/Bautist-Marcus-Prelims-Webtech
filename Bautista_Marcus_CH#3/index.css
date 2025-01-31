@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F98866;
+}
+
+.container {
+    width: 300px;
+    background-color: #FFF2D7;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: 3px solid #E7E8D1;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    float: left;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
